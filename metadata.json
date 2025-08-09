@@ -1,0 +1,5 @@
+{
+  "name": "Rakhi Builder",
+  "description": "An interactive web application that allows users to design their own custom Rakhi by combining various shapes, textures, and decorative elements. Users can download their creations as PNG images to share with family and friends.",
+  "requestFramePermissions": []
+}
